@@ -28,7 +28,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url('../imgaes/18192416_10154588187238177_842766187250109926_o.jpg');
+    background-image: url('../images/18192416_10154588187238177_842766187250109926_o.jpg');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -152,27 +152,27 @@ header .header-content .header-content-inner p {
 }
 
 .item-1 {
-	background: url('../imgaes/landscape-1437506718-best-organizing-index.jpg');
+	background: url('../images/landscape-1437506718-best-organizing-index.jpg');
 	}
 	
 .item-2 {
-	background: url('../imgaes/e55d286b6a0890db7b48c82a19a0203a.jpg ');
+	background: url('../images/e55d286b6a0890db7b48c82a19a0203a.jpg ');
 	}
 	
 .item-3 {
-	background: url('../imgaes/1432671947-shoestorage.jpg');
+	background: url('../images/1432671947-shoestorage.jpg');
 	}
 
 .item-4 {
-	background: url('../imgaes/organized-linen-closet.jpg');
+	background: url('../images/organized-linen-closet.jpg');
 	}
 
 .item-5 {
-	background: url('../imgaes/2313.Organization_Storage_Home_Decor_Design.jpg-550x0.jpg');
+	background: url('../images/2313.Organization_Storage_Home_Decor_Design.jpg-550x0.jpg');
 	}
 
 .item-6 {
-	background: url('../imgaes/Social-Home-cupboard-organization.jpg');
+	background: url('../images/Social-Home-cupboard-organization.jpg');
 	}
 		
 .item-1,
@@ -216,7 +216,7 @@ a{
 	}
 
 .text-light {
-    color: rgb(0,0,0,);
+    color: rgb(0,0,0);
 }
 
 .navbar-brand{
